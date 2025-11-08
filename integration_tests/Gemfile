@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-gem 'mqtt'
+gem 'mqtt', '>= 0.7.0'
 gem 'rspec'
 gem 'rubocop'
 gem 'sequel'
